@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Optical_Lab__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Lookup field to the Optical Lab account</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Relationship to optical lab record. Indicates the Optical Lab to which the account belongs to</inlineHelpText>
+    <label>Optical Lab Name</label>
+    <referenceTo>Account</referenceTo>
+    <relationshipLabel>Accounts (Optical Lab Name)</relationshipLabel>
+    <relationshipName>OpticalLabAcct</relationshipName>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Lookup</type>
+</CustomField>

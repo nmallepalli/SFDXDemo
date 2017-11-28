@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>ADDRESS_TYPE__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Address Type - MDM</inlineHelpText>
+        <label>Address Type</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Address1__c</fullName>
+        <externalId>false</externalId>
+        <label>Address1</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Address2__c</fullName>
+        <description>Account Address Line 2</description>
+        <externalId>false</externalId>
+        <label>Address2</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Address3__c</fullName>
+        <description>Account Address Line 3</description>
+        <externalId>false</externalId>
+        <label>Address3</label>
+        <length>70</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Address4__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Address 4 - MDM</inlineHelpText>
+        <label>Address4</label>
+        <length>70</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Affiliate_Code__c</fullName>
+        <description>Affiliate Code</description>
+        <externalId>false</externalId>
+        <label>Affiliate Code</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>BUSINESS_SUBTYPE__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Business Sub Type - MDM</inlineHelpText>
+        <label>Business Subtype</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>BASE</fullName>
+                    <default>false</default>
+                    <label>BASE</label>
+                </value>
+                <value>
+                    <fullName>COMPETITIVE</fullName>
+                    <default>false</default>
+                    <label>COMPETITIVE</label>
+                </value>
+                <value>
+                    <fullName>INDEPENDENT</fullName>
+                    <default>false</default>
+                    <label>INDEPENDENT</label>
+                </value>
+                <value>
+                    <fullName>OPHTHALMOLOGIST</fullName>
+                    <default>false</default>
+                    <label>OPHTHALMOLOGIST</label>
+                </value>
+                <value>
+                    <fullName>OPTICIAN</fullName>
+                    <default>false</default>
+                    <label>OPTICIAN</label>
+                </value>
+                <value>
+                    <fullName>OPTOMETRIST</fullName>
+                    <default>false</default>
+                    <label>OPTOMETRIST</label>
+                </value>
+                <value>
+                    <fullName>PARTNER</fullName>
+                    <default>false</default>
+                    <label>PARTNER</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>BUSINESS_TYPE__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Business Type - MDM</inlineHelpText>
+        <label>Business Type</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>BG</fullName>
+                    <default>false</default>
+                    <label>BG</label>
+                </value>
+                <value>
+                    <fullName>ECP</fullName>
+                    <default>false</default>
+                    <label>ECP</label>
+                </value>
+                <value>
+                    <fullName>IND</fullName>
+                    <default>false</default>
+                    <label>IND</label>
+                </value>
+                <value>
+                    <fullName>INT</fullName>
+                    <default>false</default>
+                    <label>INT</label>
+                </value>
+                <value>
+                    <fullName>LAB</fullName>
+                    <default>false</default>
+                    <label>LAB</label>
+                </value>
+                <value>
+                    <fullName>MC</fullName>
+                    <default>false</default>
+                    <label>MC</label>
+                </value>
+                <value>
+                    <fullName>RET</fullName>
+                    <default>false</default>
+                    <label>RET</label>
+                </value>
+                <value>
+                    <fullName>SCH</fullName>
+                    <default>false</default>
+                    <label>SCH</label>
+                </value>
+                <value>
+                    <fullName>WHS</fullName>
+                    <default>false</default>
+                    <label>WHS</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>BUSINESS_UNIT__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Sales channel:  ELOA, NIP, etc.</inlineHelpText>
+        <label>Business Unit</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Big_C_Name__c</fullName>
+        <defaultValue>&quot;Unspecified&quot;</defaultValue>
+        <description>Big Customer Name defined by Finance. Populated by ELink</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Big Customer Name defined by Finance</inlineHelpText>
+        <label>Big C Name</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Billing_Address1__c</fullName>
+        <externalId>false</externalId>
+        <label>Billing Address1</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Billing_Address2__c</fullName>
+        <description>Billing Account Address Line 2</description>
+        <externalId>false</externalId>
+        <label>Billing Address2</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Billing_Address3__c</fullName>
+        <description>Billing Account Address Line 3</description>
+        <externalId>false</externalId>
+        <label>Billing Address3</label>
+        <length>70</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Billing_Address4__c</fullName>
+        <description>Populated by MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Billing Address 4 - MDM</inlineHelpText>
+        <label>Billing Address4</label>
+        <length>70</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Billing_County__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Billing County - MDM</inlineHelpText>
+        <label>Billing County</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Billing_Povince__c</fullName>
+        <description>Populated by MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Billing Province - MDM</inlineHelpText>
+        <label>Billing Province</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Billing_Suite__c</fullName>
+        <description>Populated by MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Billing Suite - MDM</inlineHelpText>
+        <label>Billing Suite</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Brand_Territory_Code__c</fullName>
+        <description>The code used to define the Territory</description>
+        <externalId>false</externalId>
+        <label>Brand Territory Code</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Buying_Group__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Lookup field to MBG Account record</description>
+        <externalId>false</externalId>
+        <inlineHelpText>MBG Relationship; Master Buying Group associated with the account.</inlineHelpText>
+        <label>MBG Name</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Accounts (MBG)</relationshipLabel>
+        <relationshipName>MBGAccount</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>CBusiness_Owner1__c</fullName>
+        <externalId>false</externalId>
+        <label>Business Owner1</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>CBusiness_Owner2__c</fullName>
+        <externalId>false</externalId>
+        <label>Business Owner2</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>CDUNS_Number__c</fullName>
+        <externalId>false</externalId>
+        <label>DUNS Number</label>
+        <length>9</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>CDate_of_Business_Formation__c</fullName>
+        <externalId>false</externalId>
+        <label>Date of Business Formation</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>CLegal_Entity_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>Legal Entity Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>CLegal_Entity_Type__c</fullName>
+        <externalId>false</externalId>
+        <label>Legal Entity Type</label>
+        <length>25</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>CNAICS_Code__c</fullName>
+        <externalId>false</externalId>
+        <label>NAICS Code</label>
+        <length>6</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>COUNTY__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>County - MDM</inlineHelpText>
+        <label>County</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Call_Cycle_Zone__c</fullName>
+        <externalId>false</externalId>
+        <label>Call Cycle Zone</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>1</fullName>
+                    <default>false</default>
+                    <label>1</label>
+                </value>
+                <value>
+                    <fullName>2</fullName>
+                    <default>false</default>
+                    <label>2</label>
+                </value>
+                <value>
+                    <fullName>3</fullName>
+                    <default>false</default>
+                    <label>3</label>
+                </value>
+                <value>
+                    <fullName>4</fullName>
+                    <default>false</default>
+                    <label>4</label>
+                </value>
+                <value>
+                    <fullName>5</fullName>
+                    <default>false</default>
+                    <label>5</label>
+                </value>
+                <value>
+                    <fullName>6</fullName>
+                    <default>false</default>
+                    <label>6</label>
+                </value>
+                <value>
+                    <fullName>7</fullName>
+                    <default>false</default>
+                    <label>7</label>
+                </value>
+                <value>
+                    <fullName>8</fullName>
+                    <default>false</default>
+                    <label>8</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Count__c</fullName>
+        <externalId>false</externalId>
+        <formula>1</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Count</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Customer_Segment__c</fullName>
+        <defaultValue>&quot;Unspecified&quot;</defaultValue>
+        <description>Customer Segment defined by Finance. Populated by ELink</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Customer Segment defined by Finance</inlineHelpText>
+        <label>Customer Segment</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Customer__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Lookup field to the Customer record</description>
+        <externalId>false</externalId>
+        <label>Customer</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Accounts (Customer Name)</relationshipLabel>
+        <relationshipName>CustomerAccount</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>DBA__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>DBA - MDM</inlineHelpText>
+        <label>DBA</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Do_Not_Contact__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Do not send email blasts from Essilor; only Brand SC</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Do not send email blasts from Essilor; only Brand SC</inlineHelpText>
+        <label>Do Not Contact</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Do_Not_Contact_for_Ext_Marketing_Call__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Exclude from external Mktg campaigns</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Exclude from external Mktg campaigns</inlineHelpText>
+        <label>Do Not Contact for Ext Marketing Call</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Do_Not_Publish_Web_Referral__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Do not publish email address on referral sites</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Do not publish email address on referral sites</inlineHelpText>
+        <label>Do Not Publish (Web Referral)</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>ENTITY_CD__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Entity Code - MDM</inlineHelpText>
+        <label>Entity CD</label>
+        <length>2</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>ENTITY_DESCRIPTION__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Lab Name - MDM</inlineHelpText>
+        <label>Entity Description</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>ENTITY_GROUP__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Lab Group IDD/NIP/ELOA</inlineHelpText>
+        <label>Entity Group</label>
+        <length>4</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>ENTITY_REF__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Integrated Lab Code _ Lab Group</inlineHelpText>
+        <label>Entity Ref</label>
+        <length>5</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Integration_ID__c</fullName>
+        <caseSensitive>false</caseSensitive>
+        <description>Unique identifier for the record in the source system. . In case of composite keys, the value in this column can consist of concatenated parts. 
+Internal field; Should not be exposed to end users.</description>
+        <externalId>true</externalId>
+        <inlineHelpText>Unique identifier for the record in the source system</inlineHelpText>
+        <label>Integration ID</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
+        <fullName>Invoice_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>Invoice Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Lab_Sales_Territory__c</fullName>
+        <description>Territory code for account detail record from MDM.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Territory code for account detail record from MDM.</inlineHelpText>
+        <label>Lab Sales Territory</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Local_Account_Number__c</fullName>
+        <description>Account that each lab assigns to a customer (ECP).  The same customer may have different account numbers at different labs.</description>
+        <externalId>false</externalId>
+        <label>Local LMS Account Number</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>MBG_Classification__c</fullName>
+        <defaultValue>&quot;UNKNOWN&quot;</defaultValue>
+        <description>Provides a high level classification of the different MBG (e.g. VSP, Eyemed)
+Only applicable to the &quot;Group/Alliance&apos; Record Type</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Provides a high level classification of the different MBG (e.g. VSP, Eyemed)</inlineHelpText>
+        <label>MBG Classification</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>MBG_Code__c</fullName>
+        <externalId>false</externalId>
+        <label>MBG Code</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>MBG_Segment__c</fullName>
+        <externalId>false</externalId>
+        <formula>case( Big_C_Name__c,
+&quot;VSP&quot;,&quot;VSP&quot;,
+&quot;EYEMED&quot;,&quot;EYEMED&quot;,
+&quot;AFFILIATE EYEMED&quot;,&quot;EYEMED&quot;,
+&quot;PRIVATE PAY&quot;)</formula>
+        <inlineHelpText>Managed care classification (Eyemed,VSP,PP) based on the Big C Name</inlineHelpText>
+        <label>MBG Segment</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>MDM_ID__c</fullName>
+        <description>MDM integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Account ID - MDM</inlineHelpText>
+        <label>MDM ID</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>MDM_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>MDM Name</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>ORACLE_ACCT_NUM__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Oracle Account Number - MDM</inlineHelpText>
+        <label>Oracle Account Number</label>
+        <length>16</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Optical_Lab__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Lookup field to the Optical Lab account</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Relationship to optical lab record. Indicates the Optical Lab to which the account belongs to</inlineHelpText>
+        <label>Optical Lab Name</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Accounts (Optical Lab Name)</relationshipLabel>
+        <relationshipName>OpticalLabAcct</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>PROVINCE__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Province - MDM</inlineHelpText>
+        <label>Province</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Primary_Lab_Channel__c</fullName>
+        <description>This is the primary channel or the channel that this account does the most business with today.</description>
+        <externalId>false</externalId>
+        <label>Primary Lab Channel</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>ELOA</fullName>
+                    <default>false</default>
+                    <label>ELOA</label>
+                </value>
+                <value>
+                    <fullName>IDD</fullName>
+                    <default>false</default>
+                    <label>IDD</label>
+                </value>
+                <value>
+                    <fullName>Integrated Retail</fullName>
+                    <default>false</default>
+                    <label>Integrated Retail</label>
+                </value>
+                <value>
+                    <fullName>Partner</fullName>
+                    <default>false</default>
+                    <label>Partner</label>
+                </value>
+                <value>
+                    <fullName>ELOA/IDD</fullName>
+                    <default>false</default>
+                    <label>ELOA/IDD</label>
+                </value>
+                <value>
+                    <fullName>ELOA/Partner</fullName>
+                    <default>false</default>
+                    <label>ELOA/Partner</label>
+                </value>
+                <value>
+                    <fullName>Partner/IDD</fullName>
+                    <default>false</default>
+                    <label>Partner/IDD</label>
+                </value>
+                <value>
+                    <fullName>No Primary</fullName>
+                    <default>false</default>
+                    <label>No Primary</label>
+                </value>
+                <value>
+                    <fullName>Other</fullName>
+                    <default>false</default>
+                    <label>Other</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Primary_Laboratory_Sales__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Primary Lab for actual STATS usage</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Primary Lab for actual STATS usage</inlineHelpText>
+        <label>Primary Laboratory (Sales)</label>
+        <lookupFilter>
+            <active>true</active>
+            <filterItems>
+                <field>$Source.RecordTypeId</field>
+                <operation>equals</operation>
+                <value>Lab Account</value>
+            </filterItems>
+            <isOptional>true</isOptional>
+        </lookupFilter>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Accounts</relationshipLabel>
+        <relationshipName>Accounts</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>STATUS__c</fullName>
+        <externalId>false</externalId>
+        <label>Status</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>A</fullName>
+                    <default>true</default>
+                    <label>A</label>
+                </value>
+                <value>
+                    <fullName>I</fullName>
+                    <default>false</default>
+                    <label>I</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>SUITE__c</fullName>
+        <description>MDM Integration</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Suite - MDM</inlineHelpText>
+        <label>Suite</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Sales_Channel__c</fullName>
+        <externalId>false</externalId>
+        <label>Sales Channel</label>
+        <length>25</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Secondary_Laboratory_Sales__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Secondary lab for actual STATS usage</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Secondary lab for actual STATS usage</inlineHelpText>
+        <label>Secondary Laboratory (Sales)</label>
+        <lookupFilter>
+            <active>true</active>
+            <filterItems>
+                <field>$Source.RecordTypeId</field>
+                <operation>equals</operation>
+                <value>Lab Account</value>
+            </filterItems>
+            <isOptional>true</isOptional>
+        </lookupFilter>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Accounts (Secondary Laboratory (Sales))</relationshipLabel>
+        <relationshipName>Accounts1</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>State_of_Business_Formation__c</fullName>
+        <externalId>false</externalId>
+        <label>State of Business Formation</label>
+        <length>30</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Statement_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>Statement Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+</CustomObject>

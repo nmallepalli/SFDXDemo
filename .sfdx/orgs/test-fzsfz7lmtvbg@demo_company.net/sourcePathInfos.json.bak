@@ -1,0 +1,1016 @@
+[
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511851984223,
+            "changeTime": 1511851984223,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511851984279,
+            "changeTime": 1511851984279,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511854692845,
+            "changeTime": 1511854692845,
+            "contentHash": "5d310bc44f3a90b31fb0c14353e4ebaded2c3701"
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511851984280,
+            "changeTime": 1511851984280,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511853372246,
+            "changeTime": 1511853372246,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511853372251,
+            "changeTime": 1511853372251,
+            "contentHash": "82a5078765c2f1122397f2a823a7250f80f7bbdb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1511853372250,
+            "changeTime": 1511853372250,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511853372394,
+            "changeTime": 1511853372394,
+            "contentHash": "7a2faec9f2ac226029fea6baf7d9dbb3b529c50a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Address1__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Address1__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 407,
+            "modifiedTime": 1511853372256,
+            "changeTime": 1511853372256,
+            "contentHash": "51c6298909eaa4c6146597e925d2e82d72e91db4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Address2__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Address2__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 461,
+            "modifiedTime": 1511853372258,
+            "changeTime": 1511853372258,
+            "contentHash": "cd9d8572c2581239c15ee8eecff7cbe25166e8e8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Address3__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Address3__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 460,
+            "modifiedTime": 1511853372260,
+            "changeTime": 1511853372260,
+            "contentHash": "c336354d2563908ab1240a52540c6a62071bcebe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Address4__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Address4__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 506,
+            "modifiedTime": 1511853372261,
+            "changeTime": 1511853372261,
+            "contentHash": "7d26fd964478bc3401261b0121788ebdbc3f0f0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ADDRESS_TYPE__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ADDRESS_TYPE__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 517,
+            "modifiedTime": 1511853372253,
+            "changeTime": 1511853372253,
+            "contentHash": "bf8169d8a5d863b2c1c91346d0844bb7a9e255a3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Affiliate_Code__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Affiliate_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1511853372265,
+            "changeTime": 1511853372265,
+            "contentHash": "e1da8ddb7d58cc872bb8f892b57bbf915ac897cd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Big_C_Name__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Big_C_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 620,
+            "modifiedTime": 1511853372274,
+            "changeTime": 1511853372274,
+            "contentHash": "8737c0611235456e0da13dd44badafb120b7602d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Address1__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Address1__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 423,
+            "modifiedTime": 1511853372276,
+            "changeTime": 1511853372276,
+            "contentHash": "d1450f1bc215f1a16705367b49db049f2bd49ece",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Address2__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Address2__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 485,
+            "modifiedTime": 1511853372278,
+            "changeTime": 1511853372278,
+            "contentHash": "7a45e67ae6cfa803c8f74994117b3bdba513b5a8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Address3__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Address3__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 484,
+            "modifiedTime": 1511853372279,
+            "changeTime": 1511853372279,
+            "contentHash": "d068372cc1cf934930518552b74c46834f3e67c7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Address4__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Address4__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 543,
+            "modifiedTime": 1511853372282,
+            "changeTime": 1511853372282,
+            "contentHash": "58971225dd541d2eb9b8393e3896697e3dfdedb4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_County__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_County__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 523,
+            "modifiedTime": 1511853372283,
+            "changeTime": 1511853372283,
+            "contentHash": "0b47942e60445d98dee9e0191b8224bb75bd02aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Povince__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Povince__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 541,
+            "modifiedTime": 1511853372285,
+            "changeTime": 1511853372285,
+            "contentHash": "0b03bc7c93c6322851ddc3d9332646519b0062a6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Suite__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Billing_Suite__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 534,
+            "modifiedTime": 1511853372287,
+            "changeTime": 1511853372287,
+            "contentHash": "602fce7f0c19956c30fd15149c799bc24b4b9f6c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Brand_Territory_Code__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Brand_Territory_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 499,
+            "modifiedTime": 1511853372289,
+            "changeTime": 1511853372289,
+            "contentHash": "6abb1fcf144bd625b5248a08b37a54aa6ff14eec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\BUSINESS_SUBTYPE__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\BUSINESS_SUBTYPE__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1806,
+            "modifiedTime": 1511853372268,
+            "changeTime": 1511853372268,
+            "contentHash": "06177bc06cad565ba4d962fa49b20c11185e4344",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\BUSINESS_TYPE__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\BUSINESS_TYPE__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2016,
+            "modifiedTime": 1511853372271,
+            "changeTime": 1511853372271,
+            "contentHash": "cc5b3a63389e3fd9e356f9b3377085f90351867e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\BUSINESS_UNIT__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\BUSINESS_UNIT__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 532,
+            "modifiedTime": 1511853372272,
+            "changeTime": 1511853372272,
+            "contentHash": "753ff1cec0f50442ff923735ef2c5bb0fc6047eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Buying_Group__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Buying_Group__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 729,
+            "modifiedTime": 1511853372291,
+            "changeTime": 1511853372291,
+            "contentHash": "3260b0c8ad3b6e630629697c0bddaf0784c29bfe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Call_Cycle_Zone__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Call_Cycle_Zone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1768,
+            "modifiedTime": 1511853372308,
+            "changeTime": 1511853372308,
+            "contentHash": "48706bc97c31ada0555ba3a1dffe7cc6b06f066d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CBusiness_Owner1__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CBusiness_Owner1__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 421,
+            "modifiedTime": 1511853372292,
+            "changeTime": 1511853372292,
+            "contentHash": "ae670978657f13baf0499f4fc556d41cc43f0bd6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CBusiness_Owner2__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CBusiness_Owner2__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 421,
+            "modifiedTime": 1511853372294,
+            "changeTime": 1511853372294,
+            "contentHash": "e8fdb94806537c3ccb960d38060905c373224e0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CDate_of_Business_Formation__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CDate_of_Business_Formation__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1511853372298,
+            "changeTime": 1511853372298,
+            "contentHash": "1a7c0522db96e39debb10178ed4b15980f9a16fd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CDUNS_Number__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CDUNS_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 412,
+            "modifiedTime": 1511853372296,
+            "changeTime": 1511853372296,
+            "contentHash": "84e75651c7d0dd4db1c8dddb1821198b3db7d43c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CLegal_Entity_Name__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CLegal_Entity_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 426,
+            "modifiedTime": 1511853372299,
+            "changeTime": 1511853372299,
+            "contentHash": "5ef44b1c6080f1e53e1e8c45d491e2aed9e1641c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CLegal_Entity_Type__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CLegal_Entity_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 425,
+            "modifiedTime": 1511853372301,
+            "changeTime": 1511853372301,
+            "contentHash": "2eb1bd2f6e2f62cf422cc446fb3f02ce1fabf1c8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CNAICS_Code__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\CNAICS_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 410,
+            "modifiedTime": 1511853372303,
+            "changeTime": 1511853372303,
+            "contentHash": "d17d85a13fc77c7dd0dd414b4204f037a8499749",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\COUNTY__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\COUNTY__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 499,
+            "modifiedTime": 1511853372305,
+            "changeTime": 1511853372305,
+            "contentHash": "ff1458a2c8572e8ebe982f5909a4e221f22e6cd1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Count__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Count__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 468,
+            "modifiedTime": 1511853372309,
+            "changeTime": 1511853372309,
+            "contentHash": "bd235b9f234ee31e2f87140977b611ed9f84d823",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Customer_Segment__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Customer_Segment__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 629,
+            "modifiedTime": 1511853372312,
+            "changeTime": 1511853372312,
+            "contentHash": "a30b4d895020db26575012ef3feaba538551df5f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Customer__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Customer__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 637,
+            "modifiedTime": 1511853372313,
+            "changeTime": 1511853372313,
+            "contentHash": "ac4d04c4a0da282f30e28061f2be213185857689",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\DBA__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\DBA__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 490,
+            "modifiedTime": 1511853372315,
+            "changeTime": 1511853372315,
+            "contentHash": "e3280de2b501c079e5cee8328fde81415b42b0cf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Do_Not_Contact_for_Ext_Marketing_Call__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Do_Not_Contact_for_Ext_Marketing_Call__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 567,
+            "modifiedTime": 1511853372319,
+            "changeTime": 1511853372319,
+            "contentHash": "cca2eab9b8272dcef65b102534e490150322e89f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Do_Not_Contact__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Do_Not_Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 553,
+            "modifiedTime": 1511853372317,
+            "changeTime": 1511853372317,
+            "contentHash": "ec4f59157c1a09082481f564b9b42477159695b4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Do_Not_Publish_Web_Referral__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Do_Not_Publish_Web_Referral__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 569,
+            "modifiedTime": 1511853372321,
+            "changeTime": 1511853372321,
+            "contentHash": "594d8e88f02bae13c872a239bc53e11df9cad8e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ENTITY_CD__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ENTITY_CD__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 509,
+            "modifiedTime": 1511853372348,
+            "changeTime": 1511853372348,
+            "contentHash": "1c69335fdad268d0c03fc3080e9bdd959ea30882",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ENTITY_DESCRIPTION__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ENTITY_DESCRIPTION__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 526,
+            "modifiedTime": 1511853372350,
+            "changeTime": 1511853372350,
+            "contentHash": "a1acb22d8eb59524a39ae64f8ad097e9cca206e7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ENTITY_GROUP__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ENTITY_GROUP__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 520,
+            "modifiedTime": 1511853372352,
+            "changeTime": 1511853372352,
+            "contentHash": "8611ed5b7b7fb6f58fef15662e3ab9741fe6610a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ENTITY_REF__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ENTITY_REF__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 525,
+            "modifiedTime": 1511853372354,
+            "changeTime": 1511853372354,
+            "contentHash": "c1c759549fb739603e7d738a85c1e45072798e48",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Integration_ID__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Integration_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 777,
+            "modifiedTime": 1511853372357,
+            "changeTime": 1511853372357,
+            "contentHash": "b4bb187e2cfc75ca67fa3a6821527bae3ec16dd1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Invoice_Name__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Invoice_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 415,
+            "modifiedTime": 1511853372358,
+            "changeTime": 1511853372358,
+            "contentHash": "2be9af8ba73bbcf3aa4f0b10864fb986cbfa5333",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Lab_Sales_Territory__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Lab_Sales_Territory__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 598,
+            "modifiedTime": 1511853372360,
+            "changeTime": 1511853372360,
+            "contentHash": "1f09d6cdfd0da2e87f0739d16b9195f400b7671f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Local_Account_Number__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Local_Account_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 589,
+            "modifiedTime": 1511853372362,
+            "changeTime": 1511853372362,
+            "contentHash": "c573a0f012dfb845b99fb45fab90204f14896a67",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\MBG_Classification__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\MBG_Classification__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 743,
+            "modifiedTime": 1511853372365,
+            "changeTime": 1511853372365,
+            "contentHash": "0073dee9c93ba2c3c7a8313e60214d08a8436329",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\MBG_Code__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\MBG_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1511853372367,
+            "changeTime": 1511853372367,
+            "contentHash": "f9c4a470480d5b4ef43960b24a483e9b6cd19bb2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\MBG_Segment__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\MBG_Segment__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 570,
+            "modifiedTime": 1511853372369,
+            "changeTime": 1511853372369,
+            "contentHash": "c5e50e5bfcef9a972ef5956ca085fea08a87ed39",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\MDM_ID__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\MDM_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 503,
+            "modifiedTime": 1511853372371,
+            "changeTime": 1511853372371,
+            "contentHash": "308670a04a4020bc855af48180dbb32c4f79faae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\MDM_Name__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\MDM_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 407,
+            "modifiedTime": 1511853372373,
+            "changeTime": 1511853372373,
+            "contentHash": "15c29b9acaf6535fe0da0fa533618274423106cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Optical_Lab__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Optical_Lab__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 785,
+            "modifiedTime": 1511853372377,
+            "changeTime": 1511853372377,
+            "contentHash": "ee76f5abcb03db2b2bc3fd9ad27450918b9c2d73",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ORACLE_ACCT_NUM__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\ORACLE_ACCT_NUM__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 538,
+            "modifiedTime": 1511853372375,
+            "changeTime": 1511853372375,
+            "contentHash": "84c606021329ed21de24dc25a06636875749610a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Primary_Lab_Channel__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Primary_Lab_Channel__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2155,
+            "modifiedTime": 1511853372381,
+            "changeTime": 1511853372381,
+            "contentHash": "f6741dbf5df81063e9caff6e0b4ecc5ac29e85ac",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\PROVINCE__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\PROVINCE__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 505,
+            "modifiedTime": 1511853372378,
+            "changeTime": 1511853372378,
+            "contentHash": "2fade7fbfab2be7f79459fa76071005ecc7fd653",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Sales_Channel__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Sales_Channel__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 416,
+            "modifiedTime": 1511853372388,
+            "changeTime": 1511853372388,
+            "contentHash": "f8465a930b74853ef53c215fbc46206af7d2181a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Statement_Name__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\Statement_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 419,
+            "modifiedTime": 1511853372395,
+            "changeTime": 1511853372395,
+            "contentHash": "1862851271badeafe9491ecbd2886580fb3c5e82",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\State_of_Business_Formation__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\State_of_Business_Formation__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 444,
+            "modifiedTime": 1511853372393,
+            "changeTime": 1511853372393,
+            "contentHash": "71df0e8fb5c3c29a777ad1d5b2edd7698fcc633b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\STATUS__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\STATUS__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 787,
+            "modifiedTime": 1511853372385,
+            "changeTime": 1511853372385,
+            "contentHash": "4fe7b146d30eb77ac22c090bfb44e2fdca75bde9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\SUITE__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\objects\\Account\\fields\\SUITE__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 497,
+            "modifiedTime": 1511853372387,
+            "changeTime": 1511853372387,
+            "contentHash": "6aa4e71411407dc1b62adb7dabaa5eea77bad28e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo",
+        {
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511853160604,
+            "changeTime": 1511853160604,
+            "contentHash": "5a713e23d4d970a1e4008fa883a3f2fea73d131d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\profiles\\Sales Operations.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\profiles\\Sales Operations.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5063,
+            "modifiedTime": 1511854692856,
+            "changeTime": 1511854692856,
+            "contentHash": "51aaa4fca61582c7e4c447724de3a2488bb555bf"
+        }
+    ],
+    [
+        "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Essilor\\Tasks_Nov28\\Demo2\\SFDXDemo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511854692854,
+            "changeTime": 1511854692854,
+            "contentHash": "c5497448668e6d5a54ae8250048f071763dda2f1"
+        }
+    ]
+]
